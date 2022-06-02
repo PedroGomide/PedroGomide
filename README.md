@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Pedro, a data analyst, I use Python programming to extract insights and predict scenarios through machine learning algorithms. My mission is to translate unstructured databases and information into actionable products.
+I'm Pedro, a data analyst, I use Python to extract insights and predict scenarios through machine learning algorithms. My mission is to translate unstructured databases and information into actionable products.
 ##
 Want to know more about me?
 
